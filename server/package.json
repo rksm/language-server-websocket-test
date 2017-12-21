@@ -1,0 +1,15 @@
+{
+  "name": "lsp-test-server",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^8.5.2",
+    "@types/ws": "^3.2.1",
+    "vscode-ws-jsonrpc": "^0.0.1-alpha.5",
+    "ws": "^3.3.3"
+  },
+  "devDependencies": {
+  }
+}
